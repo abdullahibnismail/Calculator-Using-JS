@@ -4,10 +4,11 @@ body {
     padding-top: 10px;
   }
 input{
-    border: 5px solid white;
     outline: none;
     font-size:34px;
     height: 65px;
+    background-color: rgb(56, 53, 53);
+    color: white;
 }
 button{
     width: 102px;
@@ -20,4 +21,7 @@ button{
 }
 button:hover {
     background-color: rgba(255, 255, 255, .9);
+}
+#RED{
+    background-color: rgb(224, 62, 62);
 }
